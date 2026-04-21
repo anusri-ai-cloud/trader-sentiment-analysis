@@ -34,3 +34,14 @@ streamlit run app.py
 - Reduce risk during Fear
 - Maintain discipline during Greed
 - Focus on consistent trading behavior
+
+## Data
+
+Due to file size limitations, datasets are not included in this repository.
+
+You can download them from:
+
+- Fear & Greed Index: [link]
+- Historical Data: [link]
+
+Place them inside a `data/` folder before running the code.
